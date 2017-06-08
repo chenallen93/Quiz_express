@@ -1,0 +1,43 @@
+li {
+  background: #FAEBD7;
+  margin: 5px;
+  padding: 5px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  margin: 5px;
+  padding: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+input {
+	width: 300px;
+}
+
+#sign-out {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+
+.answer {
+  background-color: #4CAF50;
+}
+
+#container {
+  text-align: center;
+
+}
+.text-center {
+  text-align: center;
+}
